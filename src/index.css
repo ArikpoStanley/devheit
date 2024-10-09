@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ant-menu-item:hover {
+  background-color: #053559 !important;
+  color: white !important;
+}
+
+.ant-menu-item-selected {
+  background-color: #053559 !important;
+  color: white !important;
+}
