@@ -1,8 +1,8 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# STEPS TO RUN THE APPLICATION
+# Clone the repository 
+# Run the command "yarn install" to install packages 
+# Run the command "npm run dev" to irun or start application
+# Click on the link on the terminal to view the page on the browser
+# I also added functionality for adding a campaign so you can fill the form and submit to create a campaign
