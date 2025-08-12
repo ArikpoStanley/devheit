@@ -9,7 +9,7 @@ const CampaignCard = ({ title, category, budget, color, description }) => (
 {/* card header */}
       <div className='flex flex-row justify-between '>
           <div style={{ backgroundColor: color }} className='p-2 font-bold text-white rounded-md mr-2 h-12'>
-            <p className='font-bold text-[20px]'>{title.split(" ")[0].substring(0,2).toUpperCase()}</p>
+            <p className='font-bold text-[20px]'>{title?.split(" ")[0].substring(0,2).toUpperCase()}</p>
           </div>
           <div className='flex flex-row justify-between '>
               <div className=''>
